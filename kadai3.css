@@ -1,0 +1,36 @@
+body{
+    background-image: url(../images/patan.jpeg);
+    background-size:contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    color: #00eecc;
+    text-align: center;
+    background-color: #ff0033
+}
+h2{
+    color: #bb00ff;
+    
+    font-weight: normal;
+    font-family: "Impact";
+    
+    text-align: center;
+    
+    background-color: #bbbbff;
+}
+h3{
+    color: #00aa55;
+    
+    font-weight:bolder;
+    font-family: "MS UI Gothic";
+    
+    text-align: left;
+}
+p{
+    color:#ff0000;
+    
+    font-family: "HG行書体";
+    font-size:25px;
+}
