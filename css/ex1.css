@@ -1,0 +1,41 @@
+body{
+    background-image: url(../images/1633.jpg);
+    background-size:contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+     color: #bb00ff;
+    
+    font-weight: normal;
+    font-family: "Impact";
+    
+    text-align: center;
+    
+    background-color: #bbbbff;
+}
+h2{
+     color: #dd0055;
+    
+    font-weight: normal;
+    font-family: "Impact";
+    
+    text-align: center;
+    
+    background-color: #bb66ff;
+}
+
+table{
+    background-color: #ddddff;
+}
+td{
+    color: #ff00ff;
+}
+
+ol{
+    font-weight: bold;
+    font-family: "HG行書体";
+    
+    background-image: url(../images/koruku.jpeg);
+}
