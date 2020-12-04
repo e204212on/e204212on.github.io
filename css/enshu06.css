@@ -1,0 +1,22 @@
+h1{
+    color: #bb00ff;
+    
+    font-weight: normal;
+    font-family: "Impact";
+    
+    text-align: center;
+    
+    background-color: #bbbbff;
+}
+
+p{
+    color:#ff0000;
+    
+    font-family: "HG行書体";
+    font-size:25px;
+}
+
+body{
+    background-image: url(../images/huukei.jpeg);
+    background-repeat: no-repeat;
+}
