@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-image: url(../images/1298.jpg);
+    background-size:contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.taitoru{
+    color: aliceblue;
+    
+    background-color: black;
+}
+.vtuber{
+    color: deepskyblue;
+    
+     background-color:darkblue;
+}
+.dokusyo{
+    color: coral;
+    
+     background-color:darkred;
+}
+.rinku{
+    color: #eeee00;
+    
+     background-color:#005500;
+}
