@@ -1,0 +1,72 @@
+div.title{
+    display: inline-block;
+    width:1000px;
+    height: 40px;
+    background-color: gray;
+}
+div.menyu{
+    display:inline-block;
+    width: 250px;
+    height: 320px;
+    margin-right: 50px;
+    vertical-align: top;
+    background-color: gainsboro
+}
+div.gazou{
+    display:inline-block;
+    width: 700px;
+    height: 320px;
+    vertical-align: top;
+    background-color: gainsboro;
+}
+div.midasi{
+    display:block;
+        width: 700px;
+    height: 300px;
+    background-color:black;
+}
+div.setumei{
+    display: block; 
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+}
+div.menu{
+    display:inline-block;
+    width: 1000px;
+    height: 320px;
+    font-size: 0;
+    margin-top: 20px;
+    background-color: azure;
+}
+div.Menu1{
+    display: block;
+      vertical-align: top;
+    width: 250px;
+    height: 100px;
+     
+     background-color:red;
+}
+div.Menu2{
+    display: block;
+      vertical-align: top;
+    width: 250px;
+    height: 100px;
+     background-color:red;
+    margin-top: 10px;
+}
+div.Menu3{
+       display:block;
+      vertical-align: top;
+    width: 250px;
+    height: 100px;
+     background-color:red;
+    margin-top: 10px;
+}
+div.footer{
+    display: inline-block;
+    width: 1000px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: orange;
+}
