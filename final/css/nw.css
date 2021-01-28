@@ -1,0 +1,93 @@
+div.title{
+    display: inline-block;
+    width:1000px;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+    background-color: gray;
+}
+div.menyu{
+    display:inline-block;
+    width: 250px;
+    height: 500px;
+    margin-right: 50px;
+    vertical-align: top;
+}
+div.gazou{
+    display:inline-block;
+    width: 700px;
+    height: 320px;
+    vertical-align: top;
+}
+div.midasi{
+    display:block;
+        width: 700px;
+    height: 500px;
+    font-size: 20px;
+    background-color:skyblue;
+}
+div.menu{
+    display:inline-block;
+    width: 1000px;
+    height: 495px;
+    font-size: 0;
+    margin-top: 20px;
+}
+div.Menu1{
+    display: block;
+    width: 250px;
+    height: 100px;
+    vertical-align: top;
+    font-size: 20px;
+     background-color:red;
+}
+div.imges{
+    display: block;
+    width: 250px;
+    height: 70px;
+    vertical-align: top;
+    font-size: 20px;
+     background-color:blue
+}
+div.Menu2{
+    display: block;
+      vertical-align: top;
+    width: 250px;
+    height: 100px;
+    font-size: 20px;
+     background-color:red;
+    margin-top: 35px;
+}
+div.Menu3{
+       display:block;
+      vertical-align: top;
+    width: 250px;
+    height: 100px;
+    font-size: 20px;
+     background-color:red;
+    margin-top: 35px;
+}
+div.Menu4{
+    display:block;
+      vertical-align: top;
+    width: 250px;
+    height: 100px;
+    font-size: 20px;
+     background-color:red;
+    margin-top: 30px; 
+}
+div.footer{
+    display: inline-block;
+    width: 1000px;
+    height: 20px;
+    margin-top: 20px;
+    font-size: 20;
+    background-color: orange;
+}
+div.gamen{
+    width: 1000px;
+    height: 595px;
+    background-image: url(../images/back01.jpeg);
+    margin: 0px auto;
+    
+}
